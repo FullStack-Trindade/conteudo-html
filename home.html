@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Título da Página</title>
+
+    <!-- Referenciando um arquivo JavaScript -->
+    <script src="./assets/scripts/main.js" defer></script>
+
+    <!-- Referenciando um arquivo CSS -->
+    <link rel="stylesheet" href="assets/styles/home.css">
+</head>
+
+<body>
+    <div class="container">
+
+        <!-- onsubmit="processarLogin(event)" -->
+        <form id="formLogin">
+            <!-- <fieldset> -->
+                <label for="email">E-mail</label>
+                <input type="email" placeholder="Digite seu e-mail..." id="email" name="email" required>
+            <!-- </fieldset> -->
+
+            <!-- <fieldset> -->
+                <label for="password">Senha</label>
+                <input type="password" placeholder="Digite sua senha..." id="password" name="password" required>
+            <!-- </fieldset> -->
+
+            <button type="submit">Entrar</button>
+        </form>
+
+    </div>
+</body>
+
+</html>
