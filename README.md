@@ -13,3 +13,9 @@ Exemplo de estrutura que será seguida:
 O conteúdo das aulas será identificado pelo nome dos arquivos, assim como é feito pelos slides / exercícios:
 
 s03a02 => Semana 03 Aula 02
+
+
+Projetos:
+
+Bikcraft
+  Desenvolvido na aula 17/05/2023. Aplicando alguns conceitos de HTML e CSS.
