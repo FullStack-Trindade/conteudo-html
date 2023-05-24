@@ -13,7 +13,7 @@ h4 {
 }
 
 .link {
-    color: blue;
+    color: var(--cor-azul);
 }
 
 .link-active {

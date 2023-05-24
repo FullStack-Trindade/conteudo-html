@@ -1,5 +1,5 @@
 :root {
-    --color-red: #601a1a;
+    --color-red: #8d1010;
     --font-size-1: 25px;
 
     --black-1: #0A0A0C;
@@ -9,4 +9,6 @@
 
     --text-success: rgb(40, 117, 40);
     --link-active-color: #00a354;
-} 
+
+    --cor-azul: rgb(28, 28, 185);
+}
